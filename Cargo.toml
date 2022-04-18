@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "erc20",
+    "erc777",
     "testing/tests",
     "testing/erc20-test",
     "testing/erc20-test-call",
@@ -9,6 +10,7 @@ members = [
 ]
 default-members = [
     "erc20",
+    "erc777",
     "testing/tests",
     "testing/erc20-test",
     "testing/erc20-test-call",
